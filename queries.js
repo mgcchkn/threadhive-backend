@@ -85,17 +85,19 @@ async function query10() {
 
 async function query11() {
     // Write code for Query 11 here
-    const
+    const userpostcount = await Thread.aggregate([
+        { $group: { _id: "$author", totalPosts: { $sum: 1 } } },
+    ]);
+    console.log("Query 11 result:", userpostcount);
 }
 
 async function query12() {
-    // Write code for Query 12 here
-
-}
-
-async function query13() {
-    // Write code for Query 13 here
-
+    const topAuthor = await Thread.aggregate([
+    { $group: { _id: "$author", postCount: { $sum: 1 } } },
+    { $sort: { postCount: -1 } },
+    { $limit: 1 },
+    ]);
+  console.log("Query 12: Top author by thread count\n", topAuthor);
 }
 
 // more queries
@@ -111,10 +113,9 @@ async function runQueries() {
     // await query7();
     // await query8();
     // await query9();
-    await query10();
+    // await query10();
     // await query11();
     // await query12();
-    // await query13();
     // more
 }
 
