@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ava Turner",
+    "email": "ava.turner@example.com",
+    "password": "Passw0rd!01",
+    "createdAtOffsetDays": 3
+  },
+  {
+    "name": "Noah Bennett",
+    "email": "noah.bennett@example.com",
+    "password": "Passw0rd!02",
+    "createdAtOffsetDays": 7
+  },
+  {
+    "name": "Mia Patel",
+    "email": "mia.patel@example.com",
+    "password": "Passw0rd!03",
+    "createdAtOffsetDays": 12
+  },
+  {
+    "name": "Liam Brooks",
+    "email": "liam.brooks@example.com",
+    "password": "Passw0rd!04",
+    "createdAtOffsetDays": 18
+  },
+  {
+    "name": "Sophia Reed",
+    "email": "sophia.reed@example.com",
+    "password": "Passw0rd!05",
+    "createdAtOffsetDays": 22
+  },
+  {
+    "name": "Ethan Flores",
+    "email": "ethan.flores@example.com",
+    "password": "Passw0rd!06",
+    "createdAtOffsetDays": 29
+  },
+  {
+    "name": "Isabella Ross",
+    "email": "isabella.ross@example.com",
+    "password": "Passw0rd!07",
+    "createdAtOffsetDays": 34
+  },
+  {
+    "name": "Lucas Kim",
+    "email": "lucas.kim@example.com",
+    "password": "Passw0rd!08",
+    "createdAtOffsetDays": 41
+  },
+  {
+    "name": "Charlotte Green",
+    "email": "charlotte.green@example.com",
+    "password": "Passw0rd!09",
+    "createdAtOffsetDays": 48
+  },
+  {
+    "name": "Henry Cooper",
+    "email": "henry.cooper@example.com",
+    "password": "Passw0rd!10",
+    "createdAtOffsetDays": 56
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Best approach to structure a Node.js project?",
+    "content": "How do you organize routes, controllers, and services for maintainability?",
+    "subredditName": "webdev"
+  },
+  {
+    "title": "CSS architecture for large apps",
+    "content": "BEM, utility-first, or CSS modules for teams of 10+ developers?",
+    "subredditName": "webdev"
+  },
+  {
+    "title": "When should I use MongoDB aggregation pipelines?",
+    "content": "I can solve queries in app logic, but should I push more work to MongoDB?",
+    "subredditName": "webdev"
+  },
+  {
+    "title": "How to start with feature engineering",
+    "content": "What are practical steps to engineer features for tabular datasets?",
+    "subredditName": "datascience"
+  },
+  {
+    "title": "Choosing evaluation metrics for imbalanced classes",
+    "content": "Accuracy is misleading for my dataset. Which metrics should I prioritize?",
+    "subredditName": "datascience"
+  },
+  {
+    "title": "Versioning datasets in a team",
+    "content": "What tools and workflows do you use for reproducible datasets?",
+    "subredditName": "datascience"
+  },
+  {
+    "title": "Preparing for system design interviews",
+    "content": "Which topics matter most for 2-4 years experience backend roles?",
+    "subredditName": "careerhelp"
+  },
+  {
+    "title": "How to write impactful resume bullet points",
+    "content": "Any framework to convert tasks into measurable achievements?",
+    "subredditName": "careerhelp"
+  },
+  {
+    "title": "Negotiating salary after getting an offer",
+    "content": "How do I approach negotiation respectfully without risking the offer?",
+    "subredditName": "careerhelp"
+  },
+  {
+    "title": "Is certifications worth it for cloud roles?",
+    "content": "Do certifications help significantly if I already have hands-on projects?",
+    "subredditName": "careerhelp"
+  },
+  {
+    "title": "Kubernetes deployment strategies compared",
+    "content": "Rolling updates, blue-green, and canary: when should each be used?",
+    "subredditName": "cloudops"
+  },
+  {
+    "title": "Reducing AWS costs without hurting reliability",
+    "content": "What are your top recurring checks for cloud cost optimization?",
+    "subredditName": "cloudops"
+  },
+  {
+    "title": "CI/CD pipeline essentials for small teams",
+    "content": "What minimum checks should we run before auto-deploying to production?",
+    "subredditName": "cloudops"
+  },
+  {
+    "title": "Choosing a game engine for 2D games",
+    "content": "What are the tradeoffs between Unity, Godot, and custom engines?",
+    "subredditName": "gamedev"
+  },
+  {
+    "title": "Game loop timing and fixed timestep",
+    "content": "Can someone explain why fixed timestep improves simulation stability?",
+    "subredditName": "gamedev"
+  },
+  {
+    "title": "Beginner-friendly path into shader programming",
+    "content": "Any practical progression from basics to writing useful shaders?",
+    "subredditName": "gamedev"
+  },
+  {
+    "title": "How to avoid context switching fatigue",
+    "content": "I am losing time between tasks. Which routines actually help?",
+    "subredditName": "productivity"
+  },
+  {
+    "title": "Time blocking vs task batching",
+    "content": "Which method works better for deep work in software projects?",
+    "subredditName": "productivity"
+  },
+  {
+    "title": "Best note-taking setup for developers",
+    "content": "How do you structure technical notes so they stay useful over time?",
+    "subredditName": "productivity"
+  },
+  {
+    "title": "Weekly review template that actually sticks",
+    "content": "Looking for a lightweight review process to plan and reflect each week.",
+    "subredditName": "productivity"
+  }
+]

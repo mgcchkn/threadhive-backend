@@ -1,0 +1,38 @@
+[
+  {
+    "name": "webdev",
+    "description": "Frontend and backend development discussions.",
+    "authorEmail": "ava.turner@example.com",
+    "createdAtOffsetDays": 5
+  },
+  {
+    "name": "datascience",
+    "description": "Data analysis, ML, and experimentation.",
+    "authorEmail": "mia.patel@example.com",
+    "createdAtOffsetDays": 10
+  },
+  {
+    "name": "careerhelp",
+    "description": "Career advice, interviews, and resumes.",
+    "authorEmail": "liam.brooks@example.com",
+    "createdAtOffsetDays": 16
+  },
+  {
+    "name": "cloudops",
+    "description": "Cloud infrastructure and DevOps best practices.",
+    "authorEmail": "sophia.reed@example.com",
+    "createdAtOffsetDays": 24
+  },
+  {
+    "name": "gamedev",
+    "description": "Game engines, graphics, and gameplay systems.",
+    "authorEmail": "ethan.flores@example.com",
+    "createdAtOffsetDays": 31
+  },
+  {
+    "name": "productivity",
+    "description": "Workflows, habits, and tools for builders.",
+    "authorEmail": "isabella.ross@example.com",
+    "createdAtOffsetDays": 44
+  }
+]
